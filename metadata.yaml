@@ -1,0 +1,37 @@
+_repo: The-Black-Death-in-the-Fourteenth-Century_52413
+_version: 0.0.1
+alternative_title: The Black Death in the 14th Century
+contributor:
+  translator:
+    agent_name: Babington, B. G. (Benjamin Guy)
+    alias: Babington, Benjamin Guy
+    birthdate: 1794
+    deathdate: 1866
+    gutenberg_agent_id: '710'
+    url: http://www.gutenberg.org/2009/agents/710
+creator:
+  author:
+    agent_name: Hecker, J. F. C. (Justus Friedrich Carl)
+    aliases:
+    - Hecker, I. F. C.
+    - Hecker, Justus Friedrich Karl
+    birthdate: 1795
+    deathdate: 1850
+    gutenberg_agent_id: '709'
+    url: http://www.gutenberg.org/2009/agents/709
+    wikipedia: http://en.wikipedia.org/wiki/Justus_Hecker
+description: ''
+gutenberg_issued: '2016-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Black Death'
+- GITenberg
+title: The Black Death in the Fourteenth Century
+url: http://www.gutenberg.org/ebooks/52413
