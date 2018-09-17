@@ -1,5 +1,5 @@
 _repo: The-Black-Death-in-the-Fourteenth-Century_52413
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Black Death in the 14th Century
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1866
     gutenberg_agent_id: '710'
     url: http://www.gutenberg.org/2009/agents/710
+covers:
+- cover_type: archival
+  image_path: 52413-h/images/cover.jpg
 creator:
   author:
     agent_name: Hecker, J. F. C. (Justus Friedrich Carl)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/709
     wikipedia: http://en.wikipedia.org/wiki/Justus_Hecker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52413#The-Black-Death-in-the-Fourteenth-Century
 gutenberg_issued: '2016-06-26'
 gutenberg_type: Text
 identifiers:
